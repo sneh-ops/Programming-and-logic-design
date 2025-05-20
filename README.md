@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Airport Booking Facity<br>🌱 I’m currently learning C, Javasricpt, MongoDB<br>💬 Ask me about Programming and Digital Electronics<br>⚡ Fun fact : <br>The first computer programmer was a woman!<br>Ada Lovelace, an English mathematician in the 1800s, is considered the world’s first computer programmer. She wrote an algorithm for Charles Babbage’s early mechanical general-purpose computer, the Analytical Engine — over 100 years before the first modern computer was built!
+🔭 I’m currently working on Airport Booking Facility<br>🌱 I’m currently learning C, Javasricpt, MongoDB<br>💬 Ask me about Programming and Digital Electronics<br>⚡ Fun fact : <br>The first computer programmer was a woman!<br>Ada Lovelace, an English mathematician in the 1800s, is considered the world’s first computer programmer. She wrote an algorithm for Charles Babbage’s early mechanical general-purpose computer, the Analytical Engine — over 100 years before the first modern computer was built!
 
 
 # 💻 Tech Stack:
